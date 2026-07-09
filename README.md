@@ -2,7 +2,7 @@
 
 An open-source, data-driven portfolio site. The frontend is built with SvelteKit and TypeScript, designed to render from a single validated content manifest rather than hardcoded markup — swap the data source and the whole site updates.
 
-**Repo:** [qamarmustapha/portfolioOne](https://github.com/qamarmustapha/portfolioOne)
+**Preview:** [](https://github.com/qamarmustapha/portfolioOne) [Preview](https://portfolioone1.vercel.app/)  
 
 ## Status
 
@@ -81,4 +81,4 @@ src/
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).# portfolioOne
+MIT — see [LICENSE](./LICENSE).#
